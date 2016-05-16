@@ -6,11 +6,6 @@
     Author     : Jerra Khorn, jkhorn1@gmail.com
 */
 
-#bootstrap-overrides body {
-	background-color: #fff;
-	color: #000000;
-}
-
 body nav:first-child {
     padding-right: 10px;
     padding-left: 10px;
@@ -23,6 +18,10 @@ body nav:first-child {
 
 .grayBG {
     background-color: #D3D3D3;
+}
+
+.blackBG {
+	background-color: #000;
 }
 
 #topPage {
