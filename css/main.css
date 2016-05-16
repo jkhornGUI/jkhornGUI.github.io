@@ -6,7 +6,7 @@
     Author     : Jerra Khorn, jkhorn1@gmail.com
 */
 
-body {
+#bootstrap-overrides body {
 	background-color: #fff;
 	color: #000000;
 }
