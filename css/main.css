@@ -3,11 +3,12 @@
  */
 /* 
     Created on : Dec 23, 2015, 11:36:54 PM
-    Author     : Jerra
+    Author     : Jerra Khorn, jkhorn1@gmail.com
 */
 
 body {
-    font: 400 15px/1.8 'Trebuchet MS', sans-serif;
+	background-color: #fff;
+	color: #000000;
 }
 
 body nav:first-child {
