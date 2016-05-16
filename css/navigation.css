@@ -1,0 +1,15 @@
+/*
+ * CSS for the navigation bar
+*/
+/* 
+    Created on : Dec 24, 2015, 12:49:29 AM
+    Author     : Jerra Khorn, j.khorn1@gmail.com
+*/
+
+.navbar {
+    opacity: 0.9;
+}
+
+.navbar-nav li.active a {;
+    background-color:#29292C;
+}
