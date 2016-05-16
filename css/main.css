@@ -6,8 +6,10 @@
     Author     : Jerra Khorn, jkhorn1@gmail.com
 */
 
-body {
+bg-1 {
 	font-family: "Ubuntu";
+	background-color: #000;
+	color: #fff;
 }
 
 body nav:first-child {
@@ -22,10 +24,6 @@ body nav:first-child {
 
 .grayBG {
     background-color: #D3D3D3;
-}
-
-.blackBG {
-	background-color: #000;
 }
 
 #topPage {
