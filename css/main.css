@@ -12,11 +12,6 @@
 	color: #fff;
 }
 
-body nav:first-child {
-    padding-right: 10px;
-    padding-left: 10px;
-}
-
 .long {
     height: 850px;
     padding: 80px 120px;
@@ -28,4 +23,13 @@ body nav:first-child {
 
 .blackBG {
     background-color: #000;
+}
+
+body nav:first-child {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+img.img-circle {
+	margin-top: 50px:
 }
