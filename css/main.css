@@ -26,10 +26,14 @@ body nav:first-child {
     background-color: #D3D3D3;
 }
 
+.blackBG {
+    background-color: #000;
+}
+
 .blur-edge-img {
 	background-image: url('http://jkhorngui.github.io/photos/boston.jpg');
     /* you need to match the shadow color to your background or image border for the desired effect*/
-    box-shadow: 0 0 30px 30px black inset;
+    box-shadow: 0 0 50px 35px black inset;
 }
 
 #topPage {
