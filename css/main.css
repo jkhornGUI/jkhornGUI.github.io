@@ -29,12 +29,3 @@ body nav:first-child {
 .blackBG {
     background-color: #000;
 }
-
-.blur-edge {
-    /* you need to match the shadow color to your background or image border for the desired effect*/
-    box-shadow: 0 0 50px 35px black inset;
-}
-
-#topPage {
-    height: 1000px;
-}
