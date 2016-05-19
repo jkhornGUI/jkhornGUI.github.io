@@ -4,6 +4,6 @@
 * Created: May 19, 2016	5:00PM
 ***/
 
-document.ready(
+$(document).ready(
 	smoothScroll();
 );
