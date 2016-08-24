@@ -34,6 +34,10 @@ img.img-circle {
 	margin-top: 50px;
 }
 
+h3 {
+	padding: 12px;
+}
+
 #footer {
 	height: 100px;
 	width: 100%
