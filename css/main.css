@@ -12,11 +12,6 @@
 	color: #fff;
 }
 
-body nav:first-child {
-    padding-right: 10px;
-    padding-left: 10px;
-}
-
 .long {
     height: 850px;
     padding: 80px 120px;
@@ -26,12 +21,15 @@ body nav:first-child {
     background-color: #D3D3D3;
 }
 
-.blur-edge-img {
-	background-image: url('http://jkhorngui.github.io/photos/boston.jpg');
-    /* you need to match the shadow color to your background or image border for the desired effect*/
-    box-shadow: 20px 20px 20px 20px black inset;
+.blackBG {
+    background-color: #000;
 }
 
-#topPage {
-    height: 1000px;
+body nav:first-child {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+img.img-circle {
+	margin-top: 50px;
 }
