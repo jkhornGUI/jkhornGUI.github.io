@@ -33,3 +33,8 @@ body nav:first-child {
 img.img-circle {
 	margin-top: 50px;
 }
+
+#footer {
+	height: 250px;
+	width: 100%
+}
